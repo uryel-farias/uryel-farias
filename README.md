@@ -4,7 +4,7 @@
 
 
 - 🔭 Hoje estou em busca da minha primeira experiência profissional como desenvolvedor front-end em uma empresa; 
-- 🌱 Atualmente estudando HTML5, CSS, JAVASCRIPT e REACT;
+- 🌱 Atualmente estudando HTML5, CSS3, JAVASCRIPT e REACT;
 - 💬 Estou interessado em: Trabalhar na área de front-end, estudar e aprender tecnologias relacionadas, fazer netwaking com gente maneira;  
 - 📧 E-mail: uryel.farias@gmail.com 
 - ️🖥 LinkedIn: https://www.linkedin.com/in/uryel-farias-b2703a191/
