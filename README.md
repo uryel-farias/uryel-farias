@@ -1,11 +1,8 @@
 ### Aqui é o Uryel Farias, seja bem vindo(a) ao meu perfil👋🏻👨🏻‍💻
 
-
-
-
 - 🔭 Hoje estou em busca da minha primeira experiência profissional como desenvolvedor front-end em uma empresa; 
 - 🌱 Atualmente estudando HTML5, CSS3, JAVASCRIPT e REACT;
-- 💬 Estou interessado em: Trabalhar na área de front-end, estudar e aprender tecnologias relacionadas, fazer netwaking com gente maneira;  
+- 💬 Estou interessado em: Trabalhar na área de front-end, estudar e aprender tecnologias relacionadas, fazer netwoking com gente maneira;  
 - 📧 E-mail: uryel.farias@gmail.com 
 - ️🖥 LinkedIn: https://www.linkedin.com/in/uryel-farias-b2703a191/
 - 📖 Leitura atual: Código Limpo: Habilidades práticas o Agile Software – Robert C. Martin;
