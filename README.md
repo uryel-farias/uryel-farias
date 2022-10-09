@@ -1,13 +1,15 @@
 ### Aqui é o Uryel Farias, seja bem vindo(a) ao meu perfil👋🏻👨🏻‍💻
 
-- 🔭 Hoje estou em busca da minha primeira experiência profissional como desenvolvedor front-end em uma empresa; 
-- 🌱 Atualmente estudando HTML5, CSS3, JAVASCRIPT e REACT;
-- 💬 Estou interessado em: Trabalhar na área de front-end, estudar e aprender tecnologias relacionadas, fazer netwoking com gente maneira;  
+- 🔭 Hoje estou em busca da minha primeira experiência profissional como desenvolvedor front-end; 
+- 🌱 Atualmente estudando JAVASCRIPT, BOOTSTRAP, JQUERY e REACT;
+- 💬 Bastante interessado em trabalhar na área de front-end, estudar e aprender tecnologias relacionadas e conhecer muita gente interessante neste processo;  
 - 📧 E-mail: uryel.farias@gmail.com 
-- ️🖥 LinkedIn: https://www.linkedin.com/in/uryel-farias-b2703a191/
+- ️🖥 LinkedIn: https://www.linkedin.com/in/uryel-farias/
+
+- 📖 Leitura atual: Estruturas de dados e algoritmos com JavaScript –  Loiane Groner;
+- 📖 Leitura atual: JAVASCRIPT & JQUERY: Desenvolvimento de interfaces interativas – Jon Dukett; 
 - 📖 Leitura atual: Código Limpo: Habilidades práticas o Agile Software – Robert C. Martin;
 - 📖 Leitura atual: HTML5 e CSS3: Guia prático e visual – Elizabeth Castro e Bruce Hyslop;
-- 📖 Leitura atual: JAVASCRIPT & JQUERY: Desenvolvimento de interfaces interativas – Jon Dukett; 
 
 <a href="https://github.com/uryel-farias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uryel-farias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
