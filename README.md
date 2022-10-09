@@ -5,6 +5,7 @@
 - 💬 Bastante interessado em trabalhar na área de front-end, estudar e aprender tecnologias relacionadas e conhecer muita gente interessante neste processo;  
 - 📧 E-mail: uryel.farias@gmail.com 
 - ️🖥 LinkedIn: https://www.linkedin.com/in/uryel-farias/
+- ️🖥 Portifólio online: https://uryel-farias-dev.vercel.app/
 
 - 📖 Leitura atual: Estruturas de dados e algoritmos com JavaScript –  Loiane Groner;
 - 📖 Leitura atual: JAVASCRIPT & JQUERY: Desenvolvimento de interfaces interativas – Jon Dukett; 
