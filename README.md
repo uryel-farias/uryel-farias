@@ -7,10 +7,6 @@
 - ️🖥 LinkedIn: https://www.linkedin.com/in/uryel-farias/
 - ️🖥 Portifólio online: https://uryel-farias-dev.vercel.app/
 
-- 📖 Leitura atual: Estruturas de dados e algoritmos com JavaScript –  Loiane Groner;
-- 📖 Leitura atual: JAVASCRIPT & JQUERY: Desenvolvimento de interfaces interativas – Jon Dukett; 
-- 📖 Leitura atual: Código Limpo: Habilidades práticas o Agile Software – Robert C. Martin;
-- 📖 Leitura atual: HTML5 e CSS3: Guia prático e visual – Elizabeth Castro e Bruce Hyslop;
 
 <a href="https://github.com/uryel-farias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uryel-farias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
