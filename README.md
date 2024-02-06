@@ -1,7 +1,7 @@
 ### Aqui é o Uryel Farias, seja bem vindo(a) ao meu perfil👋🏻👨🏻‍💻
 
 - 🔭 Hoje estou em busca da minha primeira experiência profissional como desenvolvedor front-end; 
-- 🌱 Atualmente estudando JAVASCRIPT, BOOTSTRAP, JQUERY e REACT;
+- 🌱 Atualmente focado nas tecnologias: jAVASCRIPT, REACT, TYPESCRIPT, SASS e BOOTSTRAP;
 - 💬 Bastante interessado em trabalhar na área de front-end, estudar e aprender tecnologias relacionadas e conhecer muita gente interessante neste processo;  
 - 📧 E-mail: uryel.farias@gmail.com 
 - ️🖥 LinkedIn: https://www.linkedin.com/in/uryel-farias/
