@@ -1,14 +1,14 @@
 ### Aqui é Uryel Farias e seja bem vindo(a) ao meu perfil👋🏻👨🏻‍💻
 
 - Atualmente estou em busca da minha primeira experiência profissional como desenvolvedor front-end; 
-- Atualmente focado nas tecnologias: JAVASCRIPT, REACT, ANGULAR, TYPESCRIPT, SASS, BOOTSTRAP e JAVA;
+- Atualmente focado nas tecnologias: JAVASCRIPT, REACT, TYPESCRIPT, BOOTSTRAP;
 - 📧 E-mail: uryel.farias@gmail.com 
 - ️🖥 LinkedIn: https://www.linkedin.com/in/uryel-farias/
 - ️🖥 Portifólio online: https://uryel-farias-dev.vercel.app/
 
 
 <a href="https://github.com/uryel-farias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uryel-farias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uryel-farias&layout=compact&langs_count=7&theme=dracula"/>
 
  </div>
